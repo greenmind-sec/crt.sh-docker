@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# check arg
 if [[ "$1" == "" ]]
 then
   echo "Não foi passado nenhum argumento"
